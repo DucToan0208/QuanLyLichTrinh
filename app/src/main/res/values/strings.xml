@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nhom12_QuanLyLichTrinhCaNhan</string>
+    <string name="hinh_anh">Hinh anh</string>
+    <string-array name="category_list">
+        <item>Chọn danh mục</item>
+        <item>Công việc</item>
+        <item>Giải trí</item>
+        <item>Sức khỏe</item>
+        <item>Gia đình</item>
+    </string-array>
+</resources>
